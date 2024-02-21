@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+
+# Git directory
+.git/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Database files
+*.sqlite
+
+# Environment variables file
+.env
