@@ -34,37 +34,37 @@ These instructions will help you set up and run the project on your local machin
     ```sh 
    docker-compose up --build
 
-![Alt text](demo_images/Screenshot from 2024-02-21 17-14-35.png)
+![Alt text](demo_images/Screenshot1.png)
 
-![Alt text](demo_images/Screenshot from 2024-02-21 17-14-47.png)
+![Alt text](demo_images/Screenshot2.png)
 
-![Alt text](demo_images/Screenshot from 2024-02-21 17-21-41.png)
+![Alt text](demo_images/Screenshot9.png)
 
 ### Using the Application
 - Once the application is running, you can access it at http://localhost:8000.
 
-![Alt text](demo_images/Screenshot from 2024-02-21 17-16-41.png)
+![Alt text](demo_images/Screenshot3.png)
 
-![Alt text](demo_images/Screenshot from 2024-02-21 22-25-25.png)
+![Alt text](demo_images/Screenshot4.png)
 
 ### Endpoints
 - GET /: The home page with a welcome message.
 
 - Scrape And Save Posts
-![Alt text](demo_images/Screenshot from 2024-02-21 17-20-21.png)
+![Alt text](demo_images/Screenshot5.png)
 
 - Get Post By Page Name
-![Alt text](demo_images/Screenshot from 2024-02-21 17-20-46.png)
+![Alt text](demo_images/Screenshot6.png)
 
 - Get Post By Id
-![Alt text](demo_images/Screenshot from 2024-02-21 17-21-08.png)
+![Alt text](demo_images/Screenshot7.png)
 
 - List Posts
-![Alt text](demo_images/Screenshot from 2024-02-21 17-21-24.png)
+![Alt text](demo_images/Screenshot8.png)
 
 ### Postgres DB
 
-![Alt text](demo_images/Screenshot from 2024-02-21 17-23-02.png)
+![Alt text](demo_images/Screenshot10.png)
 
 
 ## Authors
